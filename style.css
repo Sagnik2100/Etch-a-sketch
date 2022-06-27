@@ -1,0 +1,12 @@
+.board{
+    display: grid;
+    background-color: white;
+    height:600px;
+    width: 1250px;
+    border:2px solid black;
+  }
+.buttons{
+  display:flex;
+  flex-direction: row;
+  gap:50px;
+}
